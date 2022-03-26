@@ -38,4 +38,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 33. Kaniko
 34. Artifactory/Arfitact Registry for artifacts
 35. Dependabot
-
+36. Requests and limits
+37. Container/Artifact Registry - build caching, registry scanning
