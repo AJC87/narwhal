@@ -1,6 +1,6 @@
-# K8s stuff
+# Narwhal
 
-# TODO
+## TODO
 1. Vault
 2. NetworkPolicy
 3. Don't automount default SA token - may need to create SA with no permissions?
