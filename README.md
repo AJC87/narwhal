@@ -40,3 +40,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 35. Dependabot
 36. Requests and limits
 37. Container/Artifact Registry - build caching, registry scanning
+38. kubectl dry-run to test before deploying
