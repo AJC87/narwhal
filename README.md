@@ -56,5 +56,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 51. Git porcelain for parsing
 52. Helm values.yaml files per env
 53. GCP zonal DNS?
-54. Anti-affinity to spread pods across nodes
+54. Anti-affinity to spread pods across nodes 
 55. Gatekeeper (best practices book chapter 11)
