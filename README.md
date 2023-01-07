@@ -26,7 +26,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 21. Cloud SQL with private IP but only connection with Cloud SQL Auth proxy allowed
 22. gVisor
 23. OPA
-24. AppArmor
+24. AppArmor inc bane
 25. Code to make a separate node pool to test K8s upgrades say for GKE
 26. Code to clear out old docker images from registry/store in cheaper storage
 27. Binary authorisation
@@ -62,4 +62,12 @@ Collection of best practices/tools etc for a K8s cluster/resources
 57. Minikube/kind helper
 58. Daemonless image builds (see Container Security book)
 59. Deploy by image digest
-
+60. Bottlerocket
+61. Default seccomp and AppArmor profiles
+62. Distroless base image
+63. Rootless containers/user namespace
+64. Kata Containers
+65. AWS Firecracker
+66. Harbor registry
+67. in-toto
+68. notary
