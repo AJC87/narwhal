@@ -8,7 +8,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 3. Don't automount default SA token - may need to create SA with no permissions?
 4. securityContext
 5. Workload Identity
-6. Linkerd, Istio
+6. Linkerd, Istio plus for both check that sidecar is present (see Container Security book)
 7. Spinnaker, Argo
 8. Autopilot
 9. Ingress
@@ -71,3 +71,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 66. Harbor registry
 67. in-toto
 68. notary
+69. AWS IRSA
+70. For Docker use Tracee to check capabilities needed, drop all inc CAP_NET_ADMIN then add (see Container Security book)
+71. Security sidecar container (see Container Security book)
+72. AWS Corretto images for Java apps
