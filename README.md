@@ -75,3 +75,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 70. For Docker use Tracee to check capabilities needed, drop all inc CAP_NET_ADMIN then add (see Container Security book)
 71. Security sidecar container (see Container Security book)
 72. AWS Corretto images for Java apps
+73. ChartMuseum
