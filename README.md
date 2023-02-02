@@ -77,3 +77,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 72. AWS Corretto images for Java apps
 73. ChartMuseum
 74. Docker Buildx
+75. HPA, VPA
+76. ResourceQuota
