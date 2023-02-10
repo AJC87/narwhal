@@ -7,7 +7,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 2. NetworkPolicy (see best practices chapter 9 I think)
 3. Don't automount default SA token - may need to create SA with no permissions?
 4. securityContext
-5. Workload Identity
+5. Workload Identity including Quota project
 6. Linkerd, Istio plus for both check that sidecar is present (see Container Security book)
 7. Spinnaker, Argo
 8. Autopilot
@@ -79,3 +79,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 74. Docker Buildx
 75. HPA, VPA
 76. ResourceQuota
+77. Make my own image for example deployments etc
