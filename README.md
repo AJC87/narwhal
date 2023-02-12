@@ -80,3 +80,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 75. HPA, VPA
 76. ResourceQuota
 77. Make my own image for example deployments etc
+78. Tag images when deployed to prod
