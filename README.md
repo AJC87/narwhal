@@ -29,7 +29,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 24. AppArmor inc bane
 25. Code to make a separate node pool to test K8s upgrades say for GKE
 26. Code to clear out old docker images from registry/store in cheaper storage
-27. Binary authorisation
+27. Skaffold
 28. kubectl use record, Helm wait, test Helm charts
 29. GCP Cloud Deploy
 30. Falco
@@ -81,3 +81,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 76. ResourceQuota
 77. Make my own image for example deployments etc
 78. Tag images when deployed to prod
+79. Knative/Cloud Run
+80. GCP Binary Authorization API, does AWS have similar?
