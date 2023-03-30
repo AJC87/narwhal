@@ -83,3 +83,6 @@ Collection of best practices/tools etc for a K8s cluster/resources
 78. Tag images when deployed to prod
 79. Knative/Cloud Run
 80. GCP Binary Authorization API, does AWS have similar?
+81. kubeadm setup script inc CRI-O and containerd
+82. Sentry
+83. PriorityClass
