@@ -86,3 +86,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 81. kubeadm setup script inc CRI-O and containerd
 82. Sentry
 83. PriorityClass
+84. Headless service for StatefulSet
