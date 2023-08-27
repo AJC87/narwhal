@@ -87,3 +87,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 82. Sentry
 83. PriorityClass
 84. Headless service for StatefulSet
+85. Secrets/ConfigMaps - immutable: true
+86. Flux
