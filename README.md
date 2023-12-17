@@ -59,7 +59,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 54. Anti-affinity to spread pods across nodes or maybe now topology spread constraints
 55. Gatekeeper (best practices book chapter 11)
 56. Containers using user namespaces
-57. Minikube/kind helper inc gVisor for Minikube
+57. Minikube/kind/K3s/MicroK8s helper inc gVisor for Minikube
 58. Daemonless image builds (see Container Security book)
 59. Deploy by image digest
 60. Bottlerocket
@@ -89,3 +89,6 @@ Collection of best practices/tools etc for a K8s cluster/resources
 84. Headless service for StatefulSet
 85. Secrets/ConfigMaps - immutable: true
 86. Flux
+87. KEDA
+88. AKS
+89. kOps/kubespray
