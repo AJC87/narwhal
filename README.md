@@ -92,3 +92,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 87. KEDA
 88. AKS
 89. kOps/kubespray
+90. ESO
