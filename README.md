@@ -12,7 +12,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 7. Spinnaker, Argo
 8. Autopilot
 9. Ingress
-10. Prometheus
+10. Prometheus/Alertmanager
 11. EFK
 12. Cloud DNS, Route 53
 13. Helm inc testing
@@ -77,13 +77,13 @@ Collection of best practices/tools etc for a K8s cluster/resources
 72. AWS Corretto images for Java apps
 73. ChartMuseum
 74. Docker Buildx
-75. HPA, VPA
+75. HPA, VPA, CPA
 76. ResourceQuota
 77. Make my own image for example deployments etc
 78. Tag images when deployed to prod
 79. Knative/Cloud Run
 80. GCP Binary Authorization API, does AWS have similar?
-81. kubeadm setup script inc CRI-O and containerd
+81. kubeadm setup script inc CRI-O and containerd, runc
 82. Sentry
 83. PriorityClass
 84. Headless service for StatefulSet
@@ -93,3 +93,8 @@ Collection of best practices/tools etc for a K8s cluster/resources
 88. AKS
 89. kOps/kubespray
 90. ESO
+91. Metrics server
+92. Tekton
+93. Ceph/Rook, Gluster
+94. Jaegar
+95. OTel
