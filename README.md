@@ -98,3 +98,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 93. Ceph/Rook, Gluster
 94. Jaegar
 95. OTel
+96. ZAP in pipeline
+97. AMD EKS nodes maybe cheaper
