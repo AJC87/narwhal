@@ -100,3 +100,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 95. OTel
 96. ZAP in pipeline
 97. AMD EKS nodes maybe cheaper
+98. New Relic
+99. Datadog
+100. PreStop and other hooks
+101. Karpenter
