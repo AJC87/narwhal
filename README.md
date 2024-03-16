@@ -104,3 +104,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 99. Datadog
 100. PreStop and other hooks
 101. Karpenter
+102. QoS
