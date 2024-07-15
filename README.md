@@ -112,3 +112,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 107. Weave Net
 108. Cilium
 109. K8s dashboard
+110. Cloud-init
+111. Velero
