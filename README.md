@@ -114,3 +114,8 @@ Collection of best practices/tools etc for a K8s cluster/resources
 109. K8s dashboard
 110. Cloud-init
 111. Velero
+112. Docker image tag vs digest (imagePullPolicy doesn't need to be every time if using digest)
+113. Maybe store 3rd party images in my registry first
+114. If pulling by tag always pull latest version
+115. RBAC for secrets etc
+116. Auditing
