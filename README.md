@@ -119,3 +119,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 114. If pulling by tag always pull latest version
 115. RBAC for secrets etc
 116. Auditing
+117. Kube Startup CPU Boost
+118. Docker Scout
