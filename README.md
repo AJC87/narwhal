@@ -12,7 +12,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 7. Spinnaker, Argo
 8. Autopilot
 9. Ingress
-10. Prometheus/Alertmanager
+10. Prometheus/Alertmanager inc Amazon Managed Service for Prometheus 
 11. EFK
 12. Cloud DNS, Route 53
 13. Helm inc testing
@@ -89,7 +89,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 84. Headless service for StatefulSet
 85. Secrets/ConfigMaps - immutable: true
 86. Flux
-87. KEDA
+87. KEDA - try out different scalers, can run in MicroK8s
 88. AKS
 89. kOps/kubespray
 90. ESO
@@ -121,3 +121,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 116. Auditing
 117. Kube Startup CPU Boost
 118. Docker Scout
+119. AWS Signer for ECR
