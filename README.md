@@ -122,3 +122,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 117. Kube Startup CPU Boost
 118. Docker Scout
 119. AWS Signer for ECR
+120. kro
+121. Chainguard
