@@ -124,3 +124,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 119. AWS Signer for ECR
 120. kro
 121. Chainguard
+122. EKS spot instances
