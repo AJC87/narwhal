@@ -110,7 +110,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 105. Lens
 106. K9s
 107. Weave Net
-108. Cilium
+108. Cilium inc CiliumNetworkPolicy
 109. K8s dashboard
 110. Cloud-init
 111. Velero
@@ -125,3 +125,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 120. kro
 121. Chainguard
 122. EKS spot instances
+123. ServiceMonitor
