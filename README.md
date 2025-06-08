@@ -126,3 +126,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 121. Chainguard
 122. EKS spot instances
 123. ServiceMonitor
+124. DNS policy
+125. Pod disruption budget
