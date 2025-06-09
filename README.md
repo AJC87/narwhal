@@ -128,3 +128,5 @@ Collection of best practices/tools etc for a K8s cluster/resources
 123. ServiceMonitor
 124. DNS policy
 125. Pod disruption budget
+126. Flatcar Container Linux
+127. Build K8s machine images for non-cloud cluster
