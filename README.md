@@ -130,3 +130,6 @@ Collection of best practices/tools etc for a K8s cluster/resources
 125. Pod disruption budget
 126. Flatcar Container Linux
 127. Build K8s machine images for non-cloud cluster
+128. Backstage
+129. GCP FQDN network policy
+130. Native sidecars
