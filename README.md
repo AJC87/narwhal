@@ -133,3 +133,4 @@ Collection of best practices/tools etc for a K8s cluster/resources
 128. Backstage
 129. GCP FQDN network policy
 130. Native sidecars
+131. Federated deployment
