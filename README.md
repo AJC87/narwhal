@@ -3,7 +3,7 @@
 Collection of best practices/tools etc for a K8s cluster/resources
 
 ## TODO
-1. Vault
+1. Vault inc with cert-manager
 2. NetworkPolicy (see best practices chapter 9 I think)
 3. Don't automount default SA token - may need to create SA with no permissions?
 4. securityContext
@@ -66,7 +66,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 61. Default seccomp and AppArmor profiles
 62. Distroless base image
 63. Rootless containers/user namespace
-64. Kata Containers
+64. Kata Containers inc Runtime Class and using Firecracker
 65. AWS Firecracker
 66. Harbor registry
 67. in-toto
@@ -134,3 +134,24 @@ Collection of best practices/tools etc for a K8s cluster/resources
 129. GCP FQDN network policy
 130. Native sidecars
 131. Federated deployment
+132. rkt
+133. Buildah
+134. ctr command
+135. crictl
+136. K8s snapshots
+137. Antrea
+138. Calico
+139. Maesh
+140. Multicluster mesh
+141. spring-vault
+142. dm-crypt
+143. Gloo
+144. OSM
+145. NodeLocal DNSCache
+146. Sonobuoy
+147. KubeadmConfigSpec
+148. ClusterConfiguration
+149. Consul inc Connect
+150. local ingress policy
+151. endpoint slices
+152. Contour/HAProxy/Traefik
