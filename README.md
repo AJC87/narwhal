@@ -8,7 +8,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 3. Don't automount default SA token - may need to create SA with no permissions?
 4. securityContext
 5. Workload Identity including Quota project
-6. Linkerd, Istio plus for both check that sidecar is present (see Container Security book)
+6. Linkerd, Istio plus for both check that sidecar is present (see Container Security book), Istio waypoint
 7. Spinnaker, Argo
 8. Autopilot
 9. Ingress
@@ -48,7 +48,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 43. Maybe use ExternalName for external things like dbs
 44. Admission controllers (can we reuse certs from existing SAs)
 45. Pull secrets from Secret Manager (GCP) or Secrets Manager/Systems Manager Parameter Store (AWS), secret pipeline
-46. Ambassador tools
+46. Ambassador tools inc k8s initializer
 47. GitHub Actions
 48. Cloud NAT, private Google access
 49. GCP Operations stuff
@@ -56,7 +56,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 51. Git porcelain for parsing
 52. Helm values.yaml files per env
 53. GCP zonal DNS?
-54. Anti-affinity to spread pods across nodes or maybe now topology spread constraints
+54. Anti-affinity to spread pods across nodes or maybe now topology spread constraints, pod topology spread, pod affinity
 55. Gatekeeper (best practices book chapter 11)
 56. Containers using user namespaces
 57. Minikube/kind/K3s/MicroK8s helper inc gVisor for Minikube
@@ -77,7 +77,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 72. AWS Corretto images for Java apps
 73. ChartMuseum
 74. Docker Buildx
-75. HPA, VPA, CPA
+75. HPA, VPA inc in Off mode, CPA
 76. ResourceQuota
 77. Make my own image for example deployments etc
 78. Tag images when deployed to prod
@@ -140,7 +140,7 @@ Collection of best practices/tools etc for a K8s cluster/resources
 135. crictl
 136. K8s snapshots
 137. Antrea
-138. Calico
+138. Calico inc dikastes
 139. Maesh
 140. Multicluster mesh
 141. spring-vault
@@ -154,4 +154,29 @@ Collection of best practices/tools etc for a K8s cluster/resources
 149. Consul inc Connect
 150. local ingress policy
 151. endpoint slices
-152. Contour/HAProxy/Traefik
+152. Contour ingress inc preStop hook/HAProxy/Traefik
+153. PagerDuty
+154. Thanos
+155. Cortex
+156. SPIFFE inc using to get AWS creds
+157. Zipkin
+158. OIDC K8s access inc using Dex
+159. PSAT
+160. LimitRange
+161. Operators inc namespace creation, deployment operator
+162. Kubebuilder
+163. Metacontroller
+164. Operator SDK
+165. Cluster API
+166. Kyverno
+167. API Priority and Fairness
+168. Antrea
+169. BuildKit
+170. Clair
+171. Aqua security suite
+172. kubens
+173. kubectx
+174. Cluster Autoscaler, Cluster Proportional Autoscaler
+175. cluster-overprovisioner
+176. Flagger traffic shifting
+177. Docker image labels/metadata
