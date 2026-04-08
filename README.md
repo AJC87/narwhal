@@ -180,3 +180,6 @@ Collection of best practices/tools etc for a K8s cluster/resources
 175. cluster-overprovisioner
 176. Flagger traffic shifting
 177. Docker image labels/metadata
+178. Docker Hardened Images
+179. Koi
+180. Linkerd metrics like concurrent executions
